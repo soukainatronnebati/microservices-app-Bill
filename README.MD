@@ -27,17 +27,17 @@ CommandLineRunner start(CustomerRepository customerRepository){
 }
 ```
 ## Customer service Test
-<img src="captures/microservice-customer.png">
+<img src="captures/microservice-customer.PNG">
 
 [📌 Explorer le INVENTORY-SERVICE](#inventory-service) : 
 
 ## inventory service Test
-<img src="captures/microservice-product.png">
+<img src="captures/microservice-product.PNG">
 
 [📌 Explorer le Billing-SERVICE](Billing-service) :
 
 ## inventory service Test
-<img src="captures/microservice_billing.png">
+<img src="captures/microservice_billing.PNG">
 
 [📌 Eureka Discovery Server ](Eureka-discovery) :
 
